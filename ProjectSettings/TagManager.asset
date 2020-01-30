@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Avatar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Vegetable
+  - Eggplant
+  - Maize
+  - Redbean
+  - Pumpkin
+  - Cabbage
+  - Bean
+  - Pea
+  - Potato
+  - Onion
+  - Vegetable2
+  - Eggplant2
+  - Maize2
+  - Redbean2
+  - Pumpkin2
+  - Cabbage2
+  - Bean2
+  - Pea2
+  - Potato2
+  - Onion2
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,55 @@
+fileFormatVersion: 2
+guid: 790cc7123a2d664448070c1561cc2a88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - potatoPrefab1: {fileID: 5714633665521569849, guid: 6fb719ce2f067714caaf60a7abc4c7de,
+      type: 3}
+  - cabbagePrefab1: {fileID: 45273957079791419, guid: c70c59d52803d6c4b908054b73fcbb13,
+      type: 3}
+  - eggplantPrefab1: {fileID: 355656724111446073, guid: 2d7b6a1119d8cff4eaab68e8b708889f,
+      type: 3}
+  - redbeanPrefab1: {fileID: 7846510265732591960, guid: 82bab6e66586b024da2a920c661e9b34,
+      type: 3}
+  - beanPrefab1: {fileID: 5458854262510199127, guid: f7dbf5957c153fb48b090b155177b0ca,
+      type: 3}
+  - peaPrefab1: {fileID: 6181437527735661134, guid: f498ea71ad49852488ef53ec93286003,
+      type: 3}
+  - vegetablePrefab1: {fileID: 6809671287015448468, guid: 3d85cb681ba5f0847a5d741811213d2d,
+      type: 3}
+  - onionPrefab1: {fileID: 568271085094797830, guid: 02a01e72ad17ab84eaebd3d837b559b3,
+      type: 3}
+  - maizePrefab1: {fileID: 7305207675692549961, guid: f957e8d1672b70d469e88683b300f057,
+      type: 3}
+  - pumpkinPrefab1: {fileID: 6755879355151261814, guid: 7a7c5bf62df2e90448db7c091728ee86,
+      type: 3}
+  - potatoPrefab2: {fileID: 6718166818384558465, guid: ce77d2e48b958b643b7a92fcd582d100,
+      type: 3}
+  - cabbagePrefab2: {fileID: 6037401817020979114, guid: d8e3caaad4fa215479c4cda5edcad017,
+      type: 3}
+  - eggplantPrefab2: {fileID: 1389149651523513131, guid: 5ee2a93e79322324e9fca499f205cbd4,
+      type: 3}
+  - redbeanPrefab2: {fileID: 1854699873649224046, guid: df38670d59d5de04082966ddc332f3ac,
+      type: 3}
+  - beanPrefab2: {fileID: 5597182786404240195, guid: 1cd8f183a1bec5e45a51ea9a40789379,
+      type: 3}
+  - peaPrefab2: {fileID: 8307042634304271381, guid: f9cbda20d57ea9643a72b07d96649ec9,
+      type: 3}
+  - vegetablePrefab2: {fileID: 4541823846288684750, guid: b8e523cd56da47344b0d5de410409147,
+      type: 3}
+  - onionPrefab2: {fileID: 6431627009304960270, guid: d2f3e7eee6f486d4bbaed321d49d7f42,
+      type: 3}
+  - maizePrefab2: {fileID: 8995747892063735338, guid: 89ccda31f588c764786ed0b7fb8af503,
+      type: 3}
+  - pumpkinPrefab2: {fileID: 6248398089540366412, guid: 7609519060e298347a8f08a4014ba2d9,
+      type: 3}
+  - trail: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - pauseMenu: {instanceID: 0}
+  - deathMenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
